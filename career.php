@@ -15,7 +15,7 @@ include './bar\navigation_bar.php';
 <style>
 hr {
     display: block;
-    height: 1px;
+    height: 2px;
     border: 0;
     border-top: 1px solid blue;
     margin: 1em 0;
